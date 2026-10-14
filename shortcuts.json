@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Schneller Gedanke",
+    "description": "Als Lesezeichen auf den Hauptbildschirn: Erstellt schnelle Obsidian Notizen (Zieldatei sollte ausgewählt werden).",
+    "emoji": "💬",
+    "color": "#912386",
+    "tags": ["Alltag", "Nachrichten"],
+    "link": "https://www.icloud.com/shortcuts/15548edc7fe44685a5551b2817543a1c"
+  },
+  {
+    "name": "Deutschlandfunk ohne App",
+    "description": "Als Lesezeichen auf den Hauptbildschirn: Startet Deutschlandfunkt direkt und live über Apple Music. Auch anderer Radiosender wählbar.",
+    "emoji": "📻",
+    "color": "#25b4ee",
+    "tags": ["Produktivität"],
+    "link": "https://www.icloud.com/shortcuts/5e5f11e5289f4944addf4c0d0a81813a"
+  },
+
+
+  {
+    "name": "Schneller SprachGedanke",
+    "description": "Als Lesezeichen auf den Hauptbildschirn: Sprich und erstellt schnelle Obsidian Notizen (Zieldatei sollte ausgewählt werden).",
+    "emoji": "🎤",
+    "color": "#912386",
+    "tags": ["Alltag", "Nachrichten"],
+    "link": "https://www.icloud.com/shortcuts/bf591bfcf9fd46cda09345afa51a1f54"
+  },
+  {
+    "name": "Prozentrechner",
+    "description": "Mit Beispielen",
+    "emoji": "🧮",
+    "color": "#fb0f4a",
+    "tags": ["Produktivität"],
+    "link": "https://www.icloud.com/shortcuts/b679995853ac42ef9dfda20805a46885"
+  },
+  {
+    "name": "Delete one this date or whenever",
+    "description": "Bilder die an diesem Tag in der Vergangenheit (oder anderen) gemacht wurden, werden angezeigt. Diese können dann gelöscht werden. ",
+    "emoji": "🎞️",
+    "color": "#119703",
+    "tags": ["Alltag", "Nachrichten"],
+    "link": "https://www.icloud.com/shortcuts/7eb5b3c801084a57a5a8e581116ef2ae"
+  },
+  {
+    "name": "Delete random pictures",
+    "description": "500 zufällige Bilder werden angezeigt, auswählen um zu löschen.",
+    "emoji": "📸",
+    "color": "#119703",
+    "tags": ["Alltag", "Nachrichten"],
+    "link": "https://www.icloud.com/shortcuts/874bd3c7962e430093dce8c155e1bbed"
+  },
+  {
+    "name": "Random Bilder zu Album",
+    "description": "500 zufällige Bilder werden angezeigt, auswählen um bestimmen Ordner hinzufügen.",
+    "emoji": "📸",
+    "color": "#e6fe00",
+    "tags": ["Alltag", "Nachrichten"],
+    "link": "https://www.icloud.com/shortcuts/bf591bfcf9fd46cda09345afa51a1f54"
+  }
+]
