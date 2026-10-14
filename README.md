@@ -2,7 +2,7 @@
 
 Meine Apple-Kurzbefehle zum Herunterladen.
 
-👉 **Seite:** https://DEIN-GITHUB-NAME.github.io/justus-shortcuts/
+
 
 ## Einmalig einrichten
 
